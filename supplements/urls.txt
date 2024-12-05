@@ -1,0 +1,242 @@
+urls = [
+    "https://shop.bodybuilding.com/products/amazing-muscle-whey-protein-1",
+    "https://shop.bodybuilding.com/products/bodybuilding-signature-whey-protein",
+    "https://shop.bodybuilding.com/products/pro-supps-whey-isolate-1",
+    "https://shop.bodybuilding.com/products/ryno-power-premium-whey-protein",
+    "https://shop.bodybuilding.com/products/pro-supps-whey-concentrate",
+    "https://shop.bodybuilding.com/products/gym-molly-power-protein",
+    "https://shop.bodybuilding.com/products/prolab-nutrition-whey-isolate",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-isolate-whey-protein",
+    "https://shop.bodybuilding.com/products/forzagen-forza-whey-pro-protein",
+    "https://shop.bodybuilding.com/products/amazing-formulas-grass-fed-whey-isolate",
+    "https://shop.bodybuilding.com/products/6am-run-track-fuel",
+    "https://shop.bodybuilding.com/products/legion-whey-plus-whey-isolate-protein-powder",
+    "https://shop.bodybuilding.com/products/amazing-formulas-grass-fed-whey-protein",
+    "https://shop.bodybuilding.com/products/amazing-formulas-the-family-whey-whey-protein-isolate",
+    "https://shop.bodybuilding.com/products/amazing-muscle-grass-fed-whey-protein",
+    "https://shop.bodybuilding.com/products/jocko-fuel-molk-protein-powder-bag",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-diet-energy-ripped-whey-protein-powder",
+    "https://shop.bodybuilding.com/products/mutant-pro-protein",
+    "https://shop.bodybuilding.com/products/prolab-nutrition-advanced-essential-whey",
+    "https://shop.bodybuilding.com/products/dmoose-whey-protein-isolate"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/forzagen-all-in-one-protein-for-her",
+    "https://shop.bodybuilding.com/products/codeage-beef-isolate-protein",
+    "https://shop.bodybuilding.com/products/nova3labs-max-protein",
+    "https://shop.bodybuilding.com/products/blacklabel-supplements-post-hustle",
+    "https://shop.bodybuilding.com/products/dmoose-whey-protein",
+    "https://shop.bodybuilding.com/products/pro-supps-whey-concentrate-chocolate",
+    "https://shop.bodybuilding.com/products/musclesport-lean-whey-iso-hydro",
+    "https://shop.bodybuilding.com/products/bsn-syntha-6-whey-protein-powder",
+    "https://shop.bodybuilding.com/products/kaged-muscle-micropure-whey-protein-isolate",
+    "https://shop.bodybuilding.com/products/ryse-loaded-protein-27srv",
+    "https://shop.bodybuilding.com/products/ryse-loaded-protein-54srv",
+    "https://shop.bodybuilding.com/products/isopure-zero-carb-whey-protein-isolate",
+    "https://shop.bodybuilding.com/products/optimum-nutrition-gold-standard-whey-protein",
+    "https://shop.bodybuilding.com/products/optimum-nutrition-platinum-hydrowhey-whey-protein-isolate",
+    "https://shop.bodybuilding.com/collections/whey-protein-blend"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/bodybuilding-signature-whey-protein-isolate",
+    "https://shop.bodybuilding.com/products/pro-supps-whey-isolate-1",
+    "https://shop.bodybuilding.com/products/ryno-power-premium-whey-protein",
+    "https://shop.bodybuilding.com/products/prolab-nutrition-whey-isolate",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-isolate-whey-protein",
+    "https://shop.bodybuilding.com/products/amazing-formulas-grass-fed-whey-isolate",
+    "https://shop.bodybuilding.com/products/legion-whey-plus-whey-isolate-protein-powder",
+    "https://shop.bodybuilding.com/products/amazing-formulas-the-family-whey-whey-protein-isolate",
+    "https://shop.bodybuilding.com/products/dmoose-whey-protein-isolate",
+    "https://shop.bodybuilding.com/products/mutant-iso-surge",
+    "https://shop.bodybuilding.com/products/gym-molly-power-protein",
+    "https://shop.bodybuilding.com/products/portions-master-whey-isolate-protein",
+    "https://shop.bodybuilding.com/products/abe-whey-iso",
+    "https://shop.bodybuilding.com/products/codeage-beef-isolate-protein",
+    "https://shop.bodybuilding.com/products/nova3labs-max-protein",
+    "https://shop.bodybuilding.com/products/blacklabel-supplements-post-hustle",
+    "https://shop.bodybuilding.com/products/musclesport-lean-whey-iso-hydro",
+    "https://shop.bodybuilding.com/products/isopure-zero-carb-whey-protein-isolate"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/thentic-plant-protein",
+    "https://shop.bodybuilding.com/products/snap-supplements-vegan-protein",
+    "https://shop.bodybuilding.com/products/legion-plant-plus-all-natural-plant-protein-powder",
+    "https://shop.bodybuilding.com/products/komplex-nutrition-plant-based-protein",
+    "https://shop.bodybuilding.com/products/portions-master-vegan-protein-blend",
+    "https://shop.bodybuilding.com/products/portions-master-plant-protein",
+    "https://shop.bodybuilding.com/products/ryno-power-plant-based-protein-powder",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-pea-protein-powder",
+    "https://shop.bodybuilding.com/products/codeage-nanofood-wonder-d-plant-based",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-organic-pea-protein-powder",
+    "https://shop.bodybuilding.com/products/musclesport-the-lean-way-plantd",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-plant-based-protein"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/thentic-plant-protein",
+    "https://shop.bodybuilding.com/products/snap-supplements-vegan-protein",
+    "https://shop.bodybuilding.com/products/legion-plant-plus-all-natural-plant-protein-powder",
+    "https://shop.bodybuilding.com/products/komplex-nutrition-plant-based-protein",
+    "https://shop.bodybuilding.com/products/portions-master-vegan-protein-blend",
+    "https://shop.bodybuilding.com/products/portions-master-plant-protein",
+    "https://shop.bodybuilding.com/products/ryno-power-plant-based-protein-powder",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-pea-protein-powder",
+    "https://shop.bodybuilding.com/products/codeage-nanofood-wonder-d-plant-based",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-organic-pea-protein-powder",
+    "https://shop.bodybuilding.com/products/musclesport-the-lean-way-plantd",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-plant-based-protein"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/sport-pux-bar",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-inspired-bar-2-0",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-protein-cookie",
+    "https://shop.bodybuilding.com/products/legion-protein-cookies",
+    "https://shop.bodybuilding.com/products/legion-protein-bars",
+    "https://shop.bodybuilding.com/products/wicked-protein-protein-collagen-cookies"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/legion-pulse-pre-workout-stim-free",
+    "https://shop.bodybuilding.com/products/ryno-power-endurance-capsules",
+    "https://shop.bodybuilding.com/products/mri-performance-no2-nitic-oxide",
+    "https://shop.bodybuilding.com/products/mri-performance-no2-black",
+    "https://shop.bodybuilding.com/products/abe-no-stim-pump-powder",
+    "https://shop.bodybuilding.com/products/snap-supplements-l-arginine-complex",
+    "https://shop.bodybuilding.com/products/blacklabel-supplements-pure-power",
+    "https://shop.bodybuilding.com/products/amazing-muscle-l-arginine-1000mg",
+    "https://shop.bodybuilding.com/products/pro-supps-dr-jekyll-signature",
+    "https://shop.bodybuilding.com/products/thentic-pre-workout-non-stim",
+    "https://shop.bodybuilding.com/products/pro-supps-hyde-max-pump-stim-free-pre-workout"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/bucked-up-original-bcaas-2-1-1",
+    "https://shop.bodybuilding.com/products/legion-recharge-post-workout",
+    "https://shop.bodybuilding.com/products/pro-supps-hydrobcaa-plus-essentials",
+    "https://shop.bodybuilding.com/products/forzagen-bcaas-glutamine-with-hydragen-complex",
+    "https://shop.bodybuilding.com/products/amazing-muscle-bcaa-2-1-1",
+    "https://shop.bodybuilding.com/products/snap-supplements-bcaa",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-arginine-1000-mg",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-taurine-1000-mg",
+    "https://shop.bodybuilding.com/products/amazing-muscle-beta-alanine-1000mg",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-glutamine-500-mg",
+    "https://shop.bodybuilding.com/products/forzagen-amino-fire-essential-bcaas-pre-workout-energy",
+    "https://shop.bodybuilding.com/products/codeage-l-glutamine-free-form-amino-acid-powder-supplement",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-citrulline-750-mg",
+    "https://shop.bodybuilding.com/products/codeage-multi-amino-all-9-essential-amino-acids-powder-supplement",
+    "https://shop.bodybuilding.com/products/thentic-intra-workout",
+    "https://shop.bodybuilding.com/products/codeage-l-carnitine-free-form-amino-acid-supplement",
+    "https://shop.bodybuilding.com/products/blacklabel-supplements-pure-aminos",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-beta-alanine",
+    "https://shop.bodybuilding.com/products/kodagenix-recovery-bcaa-glutamine",
+    "https://shop.bodybuilding.com/products/amazing-muscle-l-citrulline-750mg",
+    "https://shop.bodybuilding.com/products/6am-run-finishline",
+    "https://shop.bodybuilding.com/products/prolab-bcaa-plus",
+    "https://shop.bodybuilding.com/products/mutant-bcaa-9-7",
+    "https://shop.bodybuilding.com/products/codeage-l-glutamine-free-form-amino-acid-supplement",
+    "https://shop.bodybuilding.com/products/amazing-muscle-amino-punch-with-sucralose",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-bcaa-with-energy",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-glutamine-1000-mg",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-citrulline-2000-mg",
+    "https://shop.bodybuilding.com/products/pro-supps-amino23-liquid-collagen",
+    "https://shop.bodybuilding.com/products/codeage-multi-amino-all-9-essential-amino-acids-supplement",
+    "https://shop.bodybuilding.com/products/pro-supps-glutamine",
+    "https://shop.bodybuilding.com/products/mutant-geaar",
+    "https://shop.bodybuilding.com/products/prolab-nutrition-amino",
+    "https://shop.bodybuilding.com/products/gym-molly-after-party-bcaa-hydration",
+    "https://shop.bodybuilding.com/products/prolab-nutrition-bcaa-plus",
+    "https://shop.bodybuilding.com/products/amazing-muscle-bcaa-3-1-2-with-stevia",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-arginine-500-mg",
+    "https://shop.bodybuilding.com/products/amazing-muscle-bcaa-1000mg",
+    "https://shop.bodybuilding.com/products/prolab-nutrition-glutamine",
+    "https://shop.bodybuilding.com/products/mri-performance-glutamine"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/bodybuilding-signature-bcaa-amino-acids",
+    "https://shop.bodybuilding.com/products/hydration-xpress",
+    "https://shop.bodybuilding.com/products/bucked-up-original-bcaas-2-1-1",
+    "https://shop.bodybuilding.com/products/bodybuilding-com-elite-energy-bcaa",
+    "https://shop.bodybuilding.com/products/pro-supps-hydrobcaa-plus-essentials",
+    "https://shop.bodybuilding.com/products/jocko-fuel-hydrate",
+    "https://shop.bodybuilding.com/products/forzagen-bcaas-glutamine-with-hydragen-complex",
+    "https://shop.bodybuilding.com/products/amazing-muscle-bcaa-2-1-1",
+    "https://shop.bodybuilding.com/products/ryno-power-electrolyte-capsules",
+    "https://shop.bodybuilding.com/products/snap-supplements-bcaa",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-arginine-1000-mg",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-taurine-1000-mg",
+    "https://shop.bodybuilding.com/products/amazing-muscle-beta-alanine-1000mg",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-glutamine-500-mg",
+    "https://shop.bodybuilding.com/products/forzagen-amino-fire-essential-bcaas-pre-workout-energy",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-citrulline-750-mg",
+    "https://shop.bodybuilding.com/products/musclesport-creatine-hydration",
+    "https://shop.bodybuilding.com/products/blacklabel-supplements-carnosyn-beta-alanine",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-advanced-hydration-with-himalayan-pink-salt",
+    "https://shop.bodybuilding.com/products/6am-run-vitamin-coffee",
+    "https://shop.bodybuilding.com/products/prolab-nutrition-amino",
+    "https://shop.bodybuilding.com/products/gym-molly-after-party-bcaa-hydration",
+    "https://shop.bodybuilding.com/products/prolab-nutrition-bcaa-plus",
+    "https://shop.bodybuilding.com/products/amazing-muscle-bcaa-3-1-2-with-stevia",
+    "https://shop.bodybuilding.com/products/amazing-nutrition-amazing-formulas-l-arginine-500-mg",
+    "https://shop.bodybuilding.com/products/amazing-muscle-bcaa-1000mg"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/me-today-mens-daily",
+    "https://shop.bodybuilding.com/products/codeage-mens-fermented-multivitamin-25-vitamins-minerals",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-whole-food-multi-vitamin",
+    "https://shop.bodybuilding.com/products/me-today-womens-daily",
+    "https://shop.bodybuilding.com/products/snap-supplements-daily-vitamin-mens",
+    "https://shop.bodybuilding.com/products/splash-candy-daily-chews",
+    "https://shop.bodybuilding.com/products/me-today-energise",
+    "https://shop.bodybuilding.com/products/amazing-formulas-mens-one-multiple",
+    "https://shop.bodybuilding.com/products/codeage-womens-fermented-multivitamin-supplement",
+    "https://shop.bodybuilding.com/products/snap-supplements-mens-hair-tonic",
+    "https://shop.bodybuilding.com/products/amazing-formulas-womens-one-multiple",
+    "https://shop.bodybuilding.com/products/codeage-grass-fed-bone-marrow-supplement",
+    "https://shop.bodybuilding.com/products/codeage-grass-fed-beef-spleen-glandular-supplement",
+    "https://shop.bodybuilding.com/products/ancient-nutrition-ancient-nutrients-womens-once-daily-multi"
+]
+
+urls = [
+    "https://shop.bodybuilding.com/products/bodybuilding-signature-greens",
+    "https://shop.bodybuilding.com/products/6am-run-supergreens",
+    "https://shop.bodybuilding.com/products/feel-good-maca-root-powder",
+    "https://shop.bodybuilding.com/products/feel-good-matcha-tea-powder",
+    "https://shop.bodybuilding.com/products/feel-good-spirulina-powder",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-better-beet-powder",
+    "https://shop.bodybuilding.com/products/feel-good-fortified-turmeric-powder",
+    "https://shop.bodybuilding.com/products/nourish-bloom-coffee-mushroom-infusion",
+    "https://shop.bodybuilding.com/products/remix-nutrition-shroom-sync",
+    "https://shop.bodybuilding.com/products/legion-genesis-green-superfood-powder",
+    "https://shop.bodybuilding.com/products/nourish-bloom-greens-detox",
+    "https://shop.bodybuilding.com/products/snap-supplements-collagen-super-greens",
+    "https://shop.bodybuilding.com/products/codeage-instantfood-easy-veggies-daily-veggie-blend-supplement",
+    "https://shop.bodybuilding.com/products/codeage-instantfood-five-a-day-fruits-vegetables-in-1-capsule",
+    "https://shop.bodybuilding.com/products/performance-inspired-nutrition-greens-for-life-organic-greens-mushrooms-superfoods",
+    "https://shop.bodybuilding.com/products/nourish-bloom-coffee-manuka-honey",
+    "https://shop.bodybuilding.com/products/nourish-bloom-organic-mushroom",
+    "https://shop.bodybuilding.com/collections/greens-superfoods",
+    "https://shop.bodybuilding.com/products/snap-supplements-olive-leaf-extract"
+]
+
+
+#I kept track of the url's that i gave in batches( since it was taking alot of time).To keep variety in products i did some from some category and also kept tract for that
+#So thats why i knew the category and hence applied that in adding a new column.
+
+
+1-41 whey protein
+59- whey protein isolate
+71-Plant protein
+77-protien bars
+88-STIMULANT FREE PRE-WORKOUT
+128-AMINO ACIDS & BCAAS
+155-hydration
+169-Multi vitamans
+188-GREENS & SUPER FOODS
+
+(Track of the category)
